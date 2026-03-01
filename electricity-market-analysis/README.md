@@ -1,4 +1,4 @@
-# Data analysis and visualisation
+# Power BI: data analysis and visualisation
 
 This project analyzes electricity production, consumption, and pricing trends in Lithuania using publicly available data (period 2023-2025). The objective was to explore the relationship between supply, demand, and price fluctuations, and to identify key seasonal and structural patterns in the electricity market. The analysis focuses on renewable energy volatility, consumption dynamics, and price differences within the EU.
 
